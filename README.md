@@ -2,7 +2,7 @@
 
 ## Description
 
-This node command line application will allow the user to generate an svg file that will contain a logo with specifications according to the users choosing. The user will be prompted with questions such as the type of shape, the color of the text that is contained within said shape, the specific characters of text itself, and finally the color of the shape. Once the user answers all of these questions within the prompt a logo.svg file will be generated, in which once opened up in a separate browser, will appear with a logo that matches the user inputs. 
+This node server-ran application will allow the user to go through the steps of CRUD(create, read, update and delete) on a back-end ecommerce database. The user, through the insomnia application, will be able to generate the entirety of a categories, products, and tags database as well as have the ability to get, post, put and even delete various entries all according to the user's preferences. 
 
 ## Usage
 ecommerce backend walkthrough:https://drive.google.com/file/d/1Gq-ICnGNONaBHBph3gjTllbWoX8IPwvL/view?usp=sharing 
